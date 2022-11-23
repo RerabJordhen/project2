@@ -1,0 +1,188 @@
+body{
+    background-image: linear-gradient(black,white);
+}
+#rerab1{
+    background-image: linear-gradient(red,yellow);
+    float: right;
+    justify-content: center;
+    align-items: center;
+    
+}
+#flip{
+  color: white;
+}
+#rerab2{
+    background-image: linear-gradient(orange,blue);
+
+}
+#rerab3{
+    background-image: linear-gradient(red,black);
+    color: white;
+    margin: 150px 10px 10px 10px;
+}
+#qq, #tt {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+  }
+  
+  #tt{
+    padding: 50px;
+    display: none;
+  }
+  #get{
+    background-image: linear-gradient(lightblue,pink);
+  }
+  .important {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  #div2{
+    background-color: aqua;
+  }
+  #div1 {
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid blue;
+    background-color: lightblue;
+  }
+  .h17{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+  }
+  #rerab1 button {
+    width: 250px;
+     border: none;
+     height: 30px;
+     border-radius: 20px;
+     background: dodgerblue;
+     color: #ffffff;
+     font-weight: bold;
+ }
+ #rerab2 button {
+  width: 1000px;
+   border: none;
+   height: 50px;
+   border-radius: 20px;
+   background: rgb(231, 234, 238);
+   color: #090909;
+   font-weight: bold;
+   font-size: 30px;
+}
+.stop {
+  width: 250px;
+   border: none;
+   height: 30px;
+   border-radius: 20px;
+   background: dodgerblue;
+   color: #ffffff;
+   font-weight: bold;
+}
+.move{
+  width: 250px;
+   border: none;
+   height: 30px;
+   border-radius: 20px;
+   background: dodgerblue;
+   color: #ffffff;
+   font-weight: bold;
+}
+#ee{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+#rerab4 button {
+  width: 1000px;
+   border: none;
+   height: 50px;
+   border-radius: 20px;
+   background: rgb(231, 234, 238);
+   color: #090909;
+   font-weight: bold;
+   font-size: 30px;
+}
+#btn1{
+  width: 250px;
+   border: none;
+   height: 30px;
+   border-radius: 20px;
+   background: dodgerblue;
+   color: #ffffff;
+   font-weight: bold;
+}
+#btn2{
+  width: 250px;
+   border: none;
+   height: 30px;
+   border-radius: 20px;
+   background: dodgerblue;
+   color: #ffffff;
+   font-weight: bold;
+}
+#lo1{
+  width: 100px;
+   border: none;
+   height: 30px;
+   border-radius: 20px;
+   background: rgb(27, 193, 30);
+   color: #d22828;
+   font-weight: bold;
+}
+#lo2{
+  width: 100px;
+   border: none;
+   height: 30px;
+   border-radius: 20px;
+   background: rgb(27, 193, 30);
+   color: #d22828;
+   font-weight: bold;
+}
+#lo3{
+  width: 100px;
+   border: none;
+   height: 30px;
+   border-radius: 20px;
+   background: rgb(27, 193, 30);
+   color: #d22828;
+   font-weight: bold;
+}
+#after button {
+  width: 100px;
+   border: none;
+   height: 50px;
+   border-radius: 20px;
+   background: rgb(127, 175, 239);
+   color: #090909;
+   font-weight: bold;
+  }
+  #remove button {
+    width: 100px;
+     border: none;
+     height: 50px;
+     border-radius: 20px;
+     background: rgb(127, 175, 239);
+     color: #090909;
+     font-weight: bold;
+    }
+    #addcss button {
+      width: 100px;
+       border: none;
+       height: 50px;
+       border-radius: 20px;
+       background: rgb(127, 175, 239);
+       color: #090909;
+       font-weight: bold;
+      }
