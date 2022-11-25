@@ -1,4 +1,4 @@
-// #hide and show
+ // #hide and show
 $(document).ready(function(){
     $("#hide").click(function(){
         $("#kk").hide();

@@ -8,6 +8,24 @@ body{
     align-items: center;
     
 }
+
+ul {
+  text-align: center;
+  margin-right: 2rem;
+}
+li {
+  color: #69ff05;
+  display: inline-block;
+  margin: 0 0 0 20px;
+  cursor: pointer;
+  font-size: 2em;
+  font-weight: 700;
+  transition: 0.3s ease;
+}
+li:hover,
+li:active {
+color: #daf92a;
+}
 #flip{
   color: white;
 }
@@ -186,3 +204,33 @@ body{
        color: #090909;
        font-weight: bold;
       }
+      .zikzak{
+        width: 100px;
+       border: none;
+       height: 50px;
+       border-radius: 20px;
+       background: rgb(236, 24, 24);
+       color: #090909;
+       font-weight: bold;
+
+      }
+    .rsta{
+      color: #ffffff;
+    }
+    .zik-2{
+      width: 80px;
+     border: none;
+     height: 30px;
+     border-radius: 20px;
+     background: rgb(236, 24, 24);
+     color: #090909;
+     font-weight: bold;
+
+    }
+    .zik-1{
+      
+      background-image: linear-gradient(rgb(86, 241, 102),rgb(72, 70, 70));
+      width: 200px;
+      height: 300px;
+      font-size: 26px;
+    }
